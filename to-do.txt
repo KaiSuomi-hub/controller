@@ -14,7 +14,6 @@
 
 4. ph-sensori, analogi voltti
 
-5. CJMCU CCS811-811 Sensor co2
 
 6. verkkokamera usb+lattakaapeli
 
@@ -39,3 +38,4 @@
 
 1. dht-11
 2. releet
+5. CJMCU CCS811-811 Sensor co2
