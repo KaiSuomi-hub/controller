@@ -1,0 +1,41 @@
+***** ROAD MAP *****
+1. Tee joka sensorille/kytkimelle oma python api
+
+2. Sovita sensorit node rediin
+
+3. vikatestaa
+
+***** TO DO *****
+
+
+
+
+3. analogi TDS-sensori  0~2.3V
+
+4. ph-sensori, analogi voltti
+
+5. CJMCU CCS811-811 Sensor co2
+
+6. verkkokamera usb+lattakaapeli
+
+7. dht-11 node-red
+
+8. releet  node-red
+
+9. analogi TDS-sensori  0~2.3V node-red
+
+10. ph-sensori, analogi voltti node-red
+
+11. CJMCU CCS811-811 Sensor co2 node-red
+
+12. verkkokamera node-red usb+lattakaapeli
+
+13. ajastin-interface
+
+14. liikkeenvalvonta usb+lattakaapeli
+
+
+***** DONE *****
+
+1. dht-11
+2. releet
